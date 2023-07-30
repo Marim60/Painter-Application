@@ -1,0 +1,3 @@
+D:/MariamFCAI/1-ThirdYear/Second Semester/Computer Graphics/Project/ComputerGraphicsProject/cmake-build-debug/CMakeFiles/ComputerGraphicsProject.dir
+D:/MariamFCAI/1-ThirdYear/Second Semester/Computer Graphics/Project/ComputerGraphicsProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MariamFCAI/1-ThirdYear/Second Semester/Computer Graphics/Project/ComputerGraphicsProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
