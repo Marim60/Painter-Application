@@ -1,5 +1,5 @@
 # Painter-Application
-A small module that simulates painter application using winAPI 
+A small module that simulates painter application using winAPI c++
 ## Table of Contents
 - [Features](#features)
 
